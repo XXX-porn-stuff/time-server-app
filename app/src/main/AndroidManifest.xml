@@ -30,8 +30,7 @@
         </activity>
 
         <activity
-            android:name="app.timeserver.ui.MainActivity"
-            android:screenOrientation="portrait">
+            android:name="app.timeserver.ui.MainActivity">
 
         </activity>
 
